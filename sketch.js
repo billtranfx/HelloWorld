@@ -9,6 +9,7 @@ mousePressed = function() {
   fill(255, 0, 0);
   text("Hello World 1!", 150, 200);
   text("Hello World 1 from tranvangiang!", 150, 200);
+  text("Hello World 10 from billtranfx!", 150, 200);
   
   fill(random(255), random(255), random(255));
   rect(random(width), random(height), random(50, 100), random(50, 100));
